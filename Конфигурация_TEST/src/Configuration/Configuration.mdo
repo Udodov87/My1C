@@ -40,5 +40,6 @@
   </languages>
   <subsystems>Subsystem.Обработки</subsystems>
   <dataProcessors>DataProcessor.ВнешняяОбработка</dataProcessors>
+  <dataProcessors>DataProcessor.Ежедневник</dataProcessors>
   <dataProcessors>DataProcessor.ОбработкаИИ</dataProcessors>
 </mdclass:Configuration>

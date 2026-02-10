@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="605c9762-bbd7-43df-be12-2f041c0b7188">
+  <producedTypes>
+    <objectType typeId="bd1f0a79-95dc-4f67-8cf0-49279c4acc85" valueTypeId="6edadd68-f930-4d43-ba8f-7f14883467d7"/>
+    <managerType typeId="589cfa16-07ec-4368-a5f4-f1963aa5a2ab" valueTypeId="fae7ff43-2123-4113-a095-ef30270c1ed0"/>
+  </producedTypes>
+  <name>Ежедневник</name>
+  <synonym>
+    <key>ru</key>
+    <value>Ежедневник</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:DataProcessor>

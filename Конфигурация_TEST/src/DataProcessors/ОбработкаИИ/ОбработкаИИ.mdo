@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="534e88d3-8e30-4d7b-916a-9d34d95f057d">
+  <producedTypes>
+    <objectType typeId="2d1224a4-bc86-4add-ae7c-c993494e0598" valueTypeId="68d63833-35a0-4e86-b6f0-e45a95a44e13"/>
+    <managerType typeId="aadd1120-39a0-4358-b387-47928c516c1b" valueTypeId="1fbbb22a-c2ac-4012-96cd-76644093aa46"/>
+  </producedTypes>
+  <name>ОбработкаИИ</name>
+  <synonym>
+    <key>ru</key>
+    <value>Обработка ИИ</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.ОбработкаИИ.Form.Форма</defaultForm>
+  <attributes uuid="8940ec9d-7b59-4b5c-8fb4-5b18d1f771e7">
+    <name>ИНН</name>
+    <synonym>
+      <key>ru</key>
+      <value>ИНН</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers/>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <attributes uuid="d4a4d594-4208-4b9b-8dd9-cbfc8f890147">
+    <name>Ответ</name>
+    <synonym>
+      <key>ru</key>
+      <value>Ответ</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers/>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <forms uuid="bb08e84e-5fa7-4745-b61a-b6700b010d82">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>

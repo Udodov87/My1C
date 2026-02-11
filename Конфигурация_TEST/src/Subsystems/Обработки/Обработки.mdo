@@ -9,4 +9,5 @@
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>DataProcessor.ВнешняяОбработка</content>
   <content>DataProcessor.ОбработкаИИ</content>
+  <content>DataProcessor.Ежедневник</content>
 </mdclass:Subsystem>
